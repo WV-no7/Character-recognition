@@ -27,6 +27,3 @@ https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/**
 
 Clone/Download this repo and run **python ocr.py --image example_01.png** in terminal.
 
-**Input**
-
-**Output**
