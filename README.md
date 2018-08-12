@@ -21,4 +21,4 @@ sudo apt-get install tesseract-ocr
 tesseract -v
 
 **Follow this link for addition installation details.
-https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/
+https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/**
