@@ -3,7 +3,7 @@
 
 Here we are using tesseract-library for character recognition.
 
-This code was taken from **pyimagesearch.com**
+This code was taken from **https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/**
 
 **Requirements:**
 
@@ -20,5 +20,5 @@ sudo apt-get install tesseract-ocr
 **Validating installation :**
 tesseract -v
 
-Follow this link for addition installation details.
+**Follow this link for addition installation details.
 https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/
